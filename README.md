@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 class SistemaEstoquePadaria:
     def __init__(self, root):
         self.root = root
-        self.root.title("🍞 Sistema de Estoque - Padaria Trigo de Ouro")
+        self.root.title("🍞 Sistema de Estoque - Padaria Leao da Tribo de Juda")
         self.root.geometry("900x600")
         self.root.configure(bg="#F5F5DC") # Fundo bege claro (estilo padaria)
         
